@@ -1,7 +1,7 @@
 # NAT Punchthrough
 Simple Rust implementation of [NAT hole punching](https://en.wikipedia.org/wiki/Hole_punching_(networking)) technique for P2P needs, with no dependencies.
 
-![image](https://github.com/sfurkan20/NAT-Punchthrough/assets/82230659/ffda51d6-bc2d-4930-8bf4-b403c81e9195)
+![image](https://github.com/sfurkan20/NAT-Punchthrough/assets/82230659/0402939d-d40b-4ce4-9245-0def6aea2d55)
 
 ## Build
 `cargo build --release`
