@@ -1,0 +1,2 @@
+pub const RELAY_SERVER_IPV4_ENDPOINT: &str = "127.0.0.1:7777";
+pub const RESPONSE_BUFFER_SIZE: usize = 1024;
